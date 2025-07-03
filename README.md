@@ -107,7 +107,7 @@ Die Lösung wurde exakt auf folgende Anforderungen aus der Stellenausschreibung 
 ---
 
 Hinweis: Der abgebildete QR-Code wurde von mir persönlich erstellt.  
-Falls Sie Interesse am zugrunde liegenden Tool oder Skript haben, kann ich dieses gerne zur Verfügung stellen.  
+Falls Sie Interesse am zugrunde liegenden Tool haben, kann ich dieses gerne zur Verfügung stellen.  
 Sie können dazu einfach den QR-Code scannen:
 
 ![qrcode](https://github.com/user-attachments/assets/a40513e3-0ad7-4d94-94eb-03916ea02d50)
