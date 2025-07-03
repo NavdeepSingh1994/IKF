@@ -24,11 +24,10 @@ Die Lösung wurde exakt auf folgende Anforderungen aus der Stellenausschreibung 
 - Incident-Erkennung, Bewertung und Koordination
 - Dokumentation von Systemzuständen
 - Koordination von Wartungsmaßnahmen
-- Schichtbetrieb mit Verantwortungsübernahme
 
 ## Berufserfahrung (Auszug)
 
-**Senior Incident Manager – Allianz Technology GmbH (05/2021 – 12/2023)**  
+**Senior Incident Manager – Allianz Technology GmbH (05/2021 – 03/2024)**  
 - Verantwortung für die Bearbeitung kritischer Incidents in globalen Produktionssystemen
 - SLA-konforme Eskalationen, Root-Cause-Analysen und Maßnahmenverfolgung
 - Koordination von Expertenteams und technische Entscheidungsfindung in Echtzeit
@@ -42,8 +41,8 @@ Die Lösung wurde exakt auf folgende Anforderungen aus der Stellenausschreibung 
 ## Ausbildung
 
 - Bachelorstudium Computer Science and Digital Communication  
-  Abschluss voraussichtlich Oktober 2025  
-  Spezialisierung: Künstliche Intelligenz und Deep Learning
+  Abschluss vorraussichtlich Ende Oktober   
+  Spezialisierung: Künstliche Intelligenz 
 
 - Offene Bachelorprüfung: 29.09. bis 04.10.2025
 
@@ -54,13 +53,13 @@ Die Lösung wurde exakt auf folgende Anforderungen aus der Stellenausschreibung 
 | PMA Level D                 | Prüfung abgeschlossen, Ergebnis ausständig |
 | Scrum Master (PSM I)       | Prüfung geplant: 10.07.2025 |
 | Ing.-Titel                 | Antrag eingereicht, Termin ausständig |
-| PMA Level C                | Geplant ab 2026             |
+
 
 ## Projekterfahrung in verantwortlicher Rolle
 
 **Aufbau eines Incident-Teams für Allianz Sri Lanka (03/2020 – 06/2020)**  
 - Remote-Schulung dreier Kolleg:innen über ABS (Allianz Business System)
-- Einführung eines dedizierten 2nd-Level-Teams
+- Einführung eines dedizierten Incident-Teams
 - Verantwortlich für Training, Onboarding, Dokumentation und Übergabe
 - Das Team besteht bis heute als produktiver Incident-Kanal
 
@@ -68,18 +67,10 @@ Die Lösung wurde exakt auf folgende Anforderungen aus der Stellenausschreibung 
 
 | Sprache    | Niveau  | Nachweis                       |
 |------------|---------|--------------------------------|
-| Deutsch    | C1      | Berlitz, Aufstufung 2018       |
+| Deutsch    | Fließend      | Muttersprache       |
 | Englisch   | C1      | Berlitz, Aufstufung 2018       |
 | Hindi      | Fließend| Muttersprache                  |
 | Punjabi    | Fließend| Muttersprache                  |
-| Kroatisch  | Grundkenntnisse, laufend in Erweiterung |
-
-## Persönliche Weiterentwicklung
-
-- Geplantes Masterstudium in Artificial Intelligence ab 2028 (FH Technikum Wien)
-- Erweiterung technischer Kompetenzen in Java und Python durch praxisnahe Projekte
-- Langfristige Zertifizierungsziele im Projektmanagement (PMA Level C)
-- Aktive Auseinandersetzung mit Infrastruktur, Monitoring und Betriebsführung
 
 ## Private Interessen
 
@@ -87,10 +78,3 @@ Die Lösung wurde exakt auf folgende Anforderungen aus der Stellenausschreibung 
 - Kontinuierliches Krafttraining, gesundheitsorientierter Lebensstil
 - Turniervorbereitung Super Smash Bros Ultimate
 - Autodidaktisches Lernen mit Fokus auf technische Tiefe
-
-## Hinweis
-
-Dieses Repository dient als technische Arbeitsprobe zur Verdeutlichung meiner operativen und methodischen Eignung für eine sicherheitsrelevante Position in einer kritischen Infrastruktur.  
-Ein vollständiger Lebenslauf ist ebenfalls verfügbar.
-
-Kontakt: navdeepsingh@live.at
