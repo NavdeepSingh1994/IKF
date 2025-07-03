@@ -1,0 +1,24 @@
+{
+  "incidents": [
+    {
+      "system": "Radar Wien-Schwechat",
+      "priority": "Kritisch",
+      "message": "Signalverlust seit 03:24 UTC"
+    },
+    {
+      "system": "Bodenkommunikation LOWL",
+      "priority": "Hoch",
+      "message": "Audio-Aussetzer bei Handoff-Vorgängen"
+    },
+    {
+      "system": "Wettersystem Linz",
+      "priority": "Mittel",
+      "message": "Kein Live-Datenabgleich seit 15 Minuten"
+    },
+    {
+      "system": "Radar Wien Schwechat",
+      "priority": "Hoch",
+      "message": "Kein Datenabgleich möglich (erfasst: 03.07.2025 21:34:32)"
+    }
+  ]
+}
