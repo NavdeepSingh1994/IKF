@@ -103,3 +103,4 @@ Die Lösung wurde exakt auf folgende Anforderungen aus der Stellenausschreibung 
 - Unterstützung neuer KollegInnen im Eskalationsablauf
 - Enge Zusammenarbeit mit internationalen Betriebsteams
 
+![qrcode](https://github.com/user-attachments/assets/a40513e3-0ad7-4d94-94eb-03916ea02d50)
