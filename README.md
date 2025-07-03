@@ -99,7 +99,6 @@ Die Lösung wurde exakt auf folgende Anforderungen aus der Stellenausschreibung 
 - Direkte Kontakte zu Key UserInnen für schnelle Problemerkennung
 - Steuerung von Major Incidents mit direkter Kommunikation an Teamleads
 - Priorisierung paralleler Störungen nach Geschäftsauswirkung
-- Dokumentation, Lessons Learned und Post-Mortem-Analyse
 - Prozessverbesserungen im Incident Handling
 - Unterstützung neuer KollegInnen im Eskalationsablauf
 - Enge Zusammenarbeit mit internationalen Betriebsteams
