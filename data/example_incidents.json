@@ -6,19 +6,19 @@
       "message": "Signalverlust seit 03:24 UTC"
     },
     {
-      "system": "Bodenkommunikation LOWL",
-      "priority": "Hoch",
-      "message": "Audio-Aussetzer bei Handoff-Vorgängen"
-    },
-    {
-      "system": "Wettersystem Linz",
-      "priority": "Mittel",
-      "message": "Kein Live-Datenabgleich seit 15 Minuten"
-    },
-    {
       "system": "Radar Wien Schwechat",
       "priority": "Hoch",
       "message": "Kein Datenabgleich möglich (erfasst: 03.07.2025 21:34:32)"
+    },
+    {
+      "system": "sdfsdfsdf",
+      "priority": "Mittel",
+      "message": "sdfsdf (erstellt: 03.07.2025 22:00:41)"
+    },
+    {
+      "system": "asdsadfasd",
+      "priority": "Niedrig",
+      "message": "asdasdas (erstellt: 03.07.2025 22:00:48)"
     }
   ]
 }

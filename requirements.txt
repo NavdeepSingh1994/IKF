@@ -1,3 +1,5 @@
 streamlit
 reportlab
 apscheduler
+python-dotenv
+openai
