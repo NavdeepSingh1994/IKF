@@ -78,3 +78,29 @@ Die Lösung wurde exakt auf folgende Anforderungen aus der Stellenausschreibung 
 - Kontinuierliches Krafttraining, gesundheitsorientierter Lebensstil
 - Turniervorbereitung Super Smash Bros Ultimate
 - Autodidaktisches Lernen mit Fokus auf technische Tiefe
+
+
+## Berufspraxis – Incident Management
+
+### Incident Manager (1st–2nd Level)
+
+- Aufnahme, Klassifizierung und Bearbeitung von Incidents gemäß SLA
+- Direktlösung von ca. 80 % der Fälle oder Weiterleitung an 3rd-Level (Operations / Application)
+- Technische Analyse und Erstdiagnose zur Priorisierung
+- Kommunikation mit User:innen und ITSM-Dokumentation (ServiceNow, Remedy)
+- Schnittstelle zwischen Anwender:innen und technischen Fachbereichen
+- Nachverfolgung offener Tickets und Qualitätskontrolle
+
+### Senior Incident Manager (zentrale Eskalation & Koordination)
+
+- Erste Ansprechperson bei kritischen Incidents im 24/7-Betrieb
+- Proaktive Eskalation an 3rd-Level-Teams noch vor Ticket-Erstellung
+- Frühwarnung und Koordination mit Operations und Application
+- Direkte Kontakte zu Key UserInnen für schnelle Problemerkennung
+- Steuerung von Major Incidents mit direkter Kommunikation an Teamleads
+- Priorisierung paralleler Störungen nach Geschäftsauswirkung
+- Dokumentation, Lessons Learned und Post-Mortem-Analyse
+- Prozessverbesserungen im Incident Handling
+- Unterstützung neuer KollegInnen im Eskalationsablauf
+- Enge Zusammenarbeit mit internationalen Betriebsteams
+
